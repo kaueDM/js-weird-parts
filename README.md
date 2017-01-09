@@ -1,2 +1,4 @@
 # js-weird-parts
-Just a bunch of Javascript snippets.
+
+Notas de estudo sobre o curso 'Javascript: Understanding the weird parts'
+Professor: Anthony Alicea
